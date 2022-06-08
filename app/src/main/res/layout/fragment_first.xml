@@ -17,7 +17,7 @@
             android:gravity="center"
             android:maxLines="50"
             android:scrollbars="vertical"
-            android:text="@string/hello_blank_fragment"
+            android:text="@string/number"
             android:textColor="@color/black"
             android:textSize="32sp" />
     </ScrollView>
